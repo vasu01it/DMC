@@ -1,0 +1,11 @@
+# DMC SOURCE - robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.dmcsource.com/sitemap.xml
+
+# Disallow internal/template files
+Disallow: /_template-reference.html
+Disallow: /_header.html
+Disallow: /_footer.html
